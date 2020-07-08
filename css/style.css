@@ -84,14 +84,13 @@ header .container .flex {
 	font-weight: 300;
 	padding: 0 16px;
 }
+.breadcrumb li {
+	display: inline-block;
+}
 
 /**
 
 
-.WordButtons {
-	display: flex;
-	flex-wrap: wrap;
-}
 .WordButton {
 	width: 16.66%;
 	padding: 0 8px;

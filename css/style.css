@@ -10,6 +10,7 @@ body {
 }
 a {
 	text-decoration: none;
+	color: #2C3543;
 }
 a:hover {
 	text-decoration: none;
@@ -64,9 +65,6 @@ header .container .flex {
 	font-size: 16px;
 	padding: 0 8px;
 }
-.header-right ul li a {
-	color: #2C3543;
-}
 .header-right ul li.btn a {
 	color: #297CBB;
 	border: 1px solid #297CBB;
@@ -82,13 +80,6 @@ header .container .flex {
 
 
 /**
-h3 {
-	color: #297CBB;
-	font-size: 24px;
-	font-weight: 300;
-	text-align: center;
-	margin-bottom: 32px;
-}
 .container {
 	width: 100%;
 	max-width: 1290px;

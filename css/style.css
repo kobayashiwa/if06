@@ -109,4 +109,11 @@ h2 {
 	font-size: 44px;
 	font-weight: 200;
 }
+.ContentBlock {
+	display: flex;
+	flex-wrap: wrap;
+}
+.ContentBlock .content-flex {
+	width: 50%;
+}
 

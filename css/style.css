@@ -84,38 +84,21 @@ header .container .flex {
 	font-weight: 300;
 	padding: 0 16px;
 }
+.breadcrumb {
+	padding: 16px 0;
+}
 .breadcrumb li {
 	display: inline-block;
+	font-weight: 300;
 }
-
-/**
-
-
-.WordButton {
-	width: 16.66%;
-	padding: 0 8px;
-	text-align: center;
-	margin-bottom: 40px;
-}
-.WordButton img {
-	width: 100%;
-}
-.keyword {
+.breadcrumb li a {
 	color: #297CBB;
-	font-size: 24px;
-	line-height: 1.2;
-	padding: 4px 0;
 }
-.voice {
-	font-size: 16px;
+.breadcrumb li:after {
+	content: '>';
+	padding: 0 0.5em;
+	color: #8D9197;
 }
-@media (max-width: 1000px) {
-	.WordButton {
-		width: 25%;
-	}
-}
-@media (max-width: 670px) {
-	.WordButton {
-		width: 50%;
-	}
+.breadcrumb li:last-child:after {
+	content: '';
 }

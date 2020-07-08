@@ -49,6 +49,10 @@ header .container .flex {
 .header-left .search img {
 	height: 100%;
 }
+.header-logo {
+	text-align: center;
+	padding-top: 30px;
+}
 
 /**
 h3 {

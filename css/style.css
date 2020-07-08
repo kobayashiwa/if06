@@ -88,6 +88,9 @@ header .container .flex {
 	display: inline-block;
 	font-weight: 300;
 }
+.breadcrumb li a {
+	color: #297CBB;
+}
 .breadcrumb li:after {
 	content: '>';
 	padding: 0 0.2em;
@@ -96,13 +99,6 @@ header .container .flex {
 /**
 
 
-
-.keyword {
-	color: #297CBB;
-	font-size: 24px;
-	line-height: 1.2;
-	padding: 4px 0;
-}
 .voice {
 	font-size: 16px;
 }

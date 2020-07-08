@@ -66,6 +66,11 @@ header .container .flex {
 .header-right ul li a {
 	color: #2C3543;
 }
+.header-right ul li.btn a {
+	color: #297CBB;
+}
+
+
 
 /**
 h3 {

@@ -84,6 +84,9 @@ header .container .flex {
 	font-weight: 300;
 	padding: 0 16px;
 }
+.breadcrumb {
+	padding: 16px 0;
+}
 .breadcrumb li {
 	display: inline-block;
 	font-weight: 300;
@@ -103,11 +106,7 @@ header .container .flex {
 
 
 
-@media (max-width: 1000px) {
-	.WordButton {
-		width: 25%;
-	}
-}
+
 @media (max-width: 670px) {
 	.WordButton {
 		width: 50%;

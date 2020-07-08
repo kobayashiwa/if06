@@ -102,3 +102,6 @@ header .container .flex {
 .breadcrumb li:last-child:after {
 	content: '';
 }
+.ContentBlockHero {
+	margin-top: 24px;
+}

@@ -69,6 +69,7 @@ header .container .flex {
 .header-right ul li.btn a {
 	color: #297CBB;
 	border: 1px solid #297CBB;
+	padding: 8px 24px;
 }
 
 

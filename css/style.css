@@ -25,6 +25,10 @@ ul, li {
 	margin: 0 auto;
 	padding: 0 24px;
 }
+header {
+	height: 130px;
+	width: 100%;
+}
 
 /**
 h3 {

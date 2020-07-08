@@ -90,14 +90,13 @@ header .container .flex {
 }
 .breadcrumb li:after {
 	content: '>';
+	padding: 0 0.2em;
 }
 
 /**
 
 
-.WordButton img {
-	width: 100%;
-}
+
 .keyword {
 	color: #297CBB;
 	font-size: 24px;

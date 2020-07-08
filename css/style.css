@@ -63,6 +63,9 @@ header .container .flex {
 	font-size: 16px;
 	padding: 0 8px;
 }
+.header-right ul li a {
+	color: #2C3543;
+}
 
 /**
 h3 {

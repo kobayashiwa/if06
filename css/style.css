@@ -96,19 +96,9 @@ header .container .flex {
 }
 .breadcrumb li:after {
 	content: '>';
-	padding: 0 0.2em;
+	padding: 0 0.5em;
+	color: #8D9197;
 }
 .breadcrumb li:last-child:after {
 	content: '';
-}
-
-/**
-
-
-
-
-@media (max-width: 670px) {
-	.WordButton {
-		width: 50%;
-	}
 }

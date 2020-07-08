@@ -76,16 +76,15 @@ header .container .flex {
 	justify-content: center;
 	flex-wrap: wrap;
 }
+.mid-header ul li {
+	font-weight: 300;
+	padding: 0 16px;
+}
 
 
 
 /**
-.container {
-	width: 100%;
-	max-width: 1290px;
-	margin: 0 auto;
-	padding: 0 24px;
-}
+
 .Language-warpper {
 	margin: 80px 0;
 }

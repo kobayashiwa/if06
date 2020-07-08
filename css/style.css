@@ -36,6 +36,19 @@ header .container {
 header .container .flex {
 	width: 33%;
 }
+.header-left {
+	text-align: left;
+	line-height: 130px;
+	font-size: 24px;
+	font-weight: 200;
+}
+.header-left .search {
+	padding-right: 16px;
+	height: 16px;
+}
+.header-left .search img {
+	height: 100%;
+}
 
 /**
 h3 {

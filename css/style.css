@@ -135,5 +135,7 @@ h2 {
 	padding: 8px 0;
 	font-weight: 200;
 }
-
+.ContentBlock-right .btn {
+	font-size: 14px;
+}
 

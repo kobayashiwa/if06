@@ -112,6 +112,7 @@ h2 {
 .ContentBlock {
 	display: flex;
 	flex-wrap: wrap;
+	align-items: center;
 }
 .ContentBlock .content-flex {
 	width: 50%;

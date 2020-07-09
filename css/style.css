@@ -123,3 +123,6 @@ h2 {
 .ContentBlock-right {
 	text-align: center;
 }
+.ContentBlock-right h3 {
+	font-size: 45px;
+}

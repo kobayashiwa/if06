@@ -120,3 +120,6 @@ h2 {
 .ContentBlock-left img {
 	width: 100%;
 }
+.ContentBlock-right {
+	text-align: center;
+}

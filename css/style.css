@@ -137,5 +137,7 @@ h2 {
 }
 .ContentBlock-right .btn {
 	font-size: 14px;
+	background: #297CBB;
+	display: inline-block;
 }
 

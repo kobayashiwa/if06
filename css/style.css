@@ -102,3 +102,46 @@ header .container .flex {
 .breadcrumb li:last-child:after {
 	content: '';
 }
+.ContentBlockHero {
+	margin-top: 24px;
+}
+h2 {
+	font-size: 44px;
+	font-weight: 200;
+}
+.ContentBlock {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+}
+.ContentBlock .content-flex {
+	width: 50%;
+}
+.ContentBlock-left img {
+	width: 100%;
+}
+.ContentBlock-right {
+	text-align: center;
+	line-height: 1;
+}
+.ContentBlock-right h3 {
+	font-size: 48px;
+	font-weight: 200;
+	color: #DC221A;
+}
+.ContentBlock-right p {
+	color: #8D9197;
+	font-size: 24px;
+	padding: 8px 0 16px 0;
+	font-weight: 200;
+}
+.ContentBlock-right .btn {
+	font-size: 14px;
+	background: #297CBB;
+	display: inline-block;
+	padding: 12px 24px;
+	border-radius: 24px;
+	color: #fff;
+	font-weight: 300;
+}
+

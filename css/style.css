@@ -122,12 +122,16 @@ h2 {
 }
 .ContentBlock-right {
 	text-align: center;
+	line-height: 1;
 }
 .ContentBlock-right h3 {
-	font-size: 45px;
+	font-size: 48px;
 	font-weight: 200;
 	color: #DC221A;
 }
 .ContentBlock-right p {
 	color: #8D9197;
+	font-size: 24px;
+	padding: 8px 0;
 }
+
